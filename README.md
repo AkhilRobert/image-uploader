@@ -6,7 +6,7 @@ A simple image uploader built using the MERN stack. The idea and UI from [devcha
 
 -   using mongodb with mongoose
 -   express
--   [multerjs](https://github.com/expressjs/multer) for image handling
+-   [multer](https://github.com/expressjs/multer) for image handling
 -   `redirects`, `history`, `location`, in react router
 
 ## Screenshots
