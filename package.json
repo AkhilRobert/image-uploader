@@ -1,0 +1,12 @@
+{
+    "name": "image-upload",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "concurrently \"cd backend && yarn dev\" \"cd frontend && yarn start \""
+    },
+    "devDependencies": {
+        "concurrently": "^6.1.0"
+    }
+}
